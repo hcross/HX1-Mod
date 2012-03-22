@@ -1,0 +1,21 @@
+Welcome the HX1-Mod project, a repository to share modifications
+I made for my SeeMeCNC H1 (http://seemecnc.com)
+
+The first goal of this project is to design a new X-Carriage that
+can hold different hotends aiming the Budaschnozzle hotend from
+LuzBot at first (http://reprap.org/wiki/LulzBot/Budaschnozzle),
+one of the best hotend available for our 3D printers, while keeping
+the original Steve's Extruder and the H1 bearing supports.
+In the future, I'll post updates to use LM6UU linear bearing
+(you'll need to update your H1 smooth rods first to 6mm).
+
+History
+-------
+1.0 - First release of the Luzbot Budaschnozzle adapter for H1.
+
+Credits
+-------
+* SeeMeCNC for having made the H1 a reality, first 350$ complete
+  3D printer on the market (http://seemecnc.com)
+* LuzBot for manufacturing impressive hotends
+  (http://www.luzbot.com)
